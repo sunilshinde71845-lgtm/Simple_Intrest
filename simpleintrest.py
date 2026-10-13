@@ -10,5 +10,5 @@ if __name__ == "__main__":
 
     si = simInt(p, r, t)
 
-    print("Simple Interest =", simInt(p,i,t))
+    print("Simple Interest =", simInt(p,r,t))
     print(sys.argv[0])
